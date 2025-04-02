@@ -7,11 +7,9 @@
 
 - 📫 How to reach me **sivaparthi1989@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aNRGswLj7KTQX8Pdknx8lUBNSSSMBmnN/view?usp=drive_link](https://drive.google.com/file/d/1aNRGswLj7KTQX8Pdknx8lUBNSSSMBmnN/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siva-sundara-krishna-p-19b642218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siva-sundara-krishna-p-19b642218/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siva-sundara-krishna-p-19b642218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siva-sundara-krishna-p-19b642218" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sivaparthi1989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sivaparthi1989" height="30" width="40" /></a>
 </p>
 
